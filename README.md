@@ -1,9 +1,8 @@
-Automatic Detection of MGD Level. Diagnosing MGD, MGD Level
+Automatic Detection of MGD Level. Diagnosing MGD.
 
-This scientific research is containing a thesis about "Diagnosis of MGD, calculating the level" and a working software finding MGD Level.
+This scientific research is containing a thesis entitled "AUTOMATIC DETECTION OF MGD LEVEL" and a working software for calculating MGD Level.
 
-DEMO of the software: https://www.youtube.com/watch?v=4acH0mB9wu8
+DEMO: https://www.youtube.com/watch?v=4acH0mB9wu8
 
 There are one file in total.
-* mgd.pdf: Scientific research, a MSc. thesis about detection of MGD Level.
-
+* mgd.pdf: Scientific research, a MSc. thesis.
