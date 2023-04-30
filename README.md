@@ -4,5 +4,5 @@ This scientific research is containing a thesis entitled "AUTOMATIC DETECTION OF
 
 DEMO: https://www.youtube.com/watch?v=4acH0mB9wu8
 
-There are one file in total.
+There is one file in total.
 * mgd.pdf: Scientific research, MSc. thesis.
