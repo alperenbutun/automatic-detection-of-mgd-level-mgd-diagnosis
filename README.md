@@ -7,6 +7,8 @@ Before starting this research, I've made some search on the Web about the topic.
 
 Since this research is a commitment to medicine area, I can't see it valuable for me. However, if it is applied to the real world, and physicians use it for real cases, I'd just be happy and hopeful that success of this research will support me someday.
 
+In summary, the software scientifically calculates and separates the front and back sides of a grayscale image. It can be also used in different areas. 
+
 Working Software: https://www.youtube.com/watch?v=4acH0mB9wu8
 
 There is one file in total.
